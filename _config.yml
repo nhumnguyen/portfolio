@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title:    Nhu Nguyen
+email:    qnguyen47@gatech.edu
+description: > Coder, Cat Lover # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://qnguyen29.github.io/nhunguyen.github.io/" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+#twitter_username:
+github_username: /qnguyen29
 
 # Build settings
 markdown: kramdown
