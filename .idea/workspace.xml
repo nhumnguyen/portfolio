@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ce00b7cd-63bb-456e-91e8-0b68847c57e3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="$PROJECT_DIR$/_includes/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/portfolio.html" afterPath="$PROJECT_DIR$/_includes/portfolio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/services.html" afterPath="$PROJECT_DIR$/_includes/services.html" />
     </list>
     <ignored path="nhunguyen.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,10 +56,13 @@
       <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+            <state relative-caret-position="198">
+              <caret line="6" column="122" selection-start-line="6" selection-start-column="122" selection-end-line="6" selection-end-column="122" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
+                <element signature="n#style#1;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#p#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
+                <element signature="n#style#1;n#i#0;n#p#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -830,12 +831,12 @@
       <option name="presentableId" value="Default" />
       <updated>1484232218718</updated>
       <workItem from="1484232220477" duration="2675000" />
-      <workItem from="1484237226110" duration="22519000" />
+      <workItem from="1484237226110" duration="23281000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25194000" />
+    <option name="totallyTimeSpent" value="25956000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-14" y="-14" width="2588" height="1378" extended-state="6" />
@@ -1287,10 +1288,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        <state relative-caret-position="198">
+          <caret line="6" column="122" selection-start-line="6" selection-start-column="122" selection-end-line="6" selection-end-column="122" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
+            <element signature="n#style#1;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#p#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
+            <element signature="n#style#1;n#i#0;n#p#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
