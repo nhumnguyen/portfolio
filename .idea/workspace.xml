@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ce00b7cd-63bb-456e-91e8-0b68847c57e3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="$PROJECT_DIR$/_includes/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/services.html" afterPath="$PROJECT_DIR$/_includes/services.html" />
     </list>
     <ignored path="nhunguyen.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,17 +27,11 @@
       <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="297">
+              <caret line="9" column="99" selection-start-line="9" selection-start-column="99" selection-end-line="9" selection-end-column="99" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-                <element signature="n#style#1;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-                <element signature="n#style#2;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#p#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-                <element signature="n#style#1;n#i#0;n#p#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-                <element signature="n#style#2;n#i#0;n#p#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h3#0;n#i#0;n#p#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
                 <element signature="n#style#1;n#a#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
               </folding>
@@ -104,6 +99,18 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="services.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/services.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1485">
+              <caret line="45" column="44" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+              <folding>
+                <marker date="1484314432920" expanded="true" signature="2433:2452" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -127,8 +134,8 @@
         <option value="$PROJECT_DIR$/_includes/nav.html" />
         <option value="$PROJECT_DIR$/_includes/call-to-action.html" />
         <option value="$PROJECT_DIR$/_includes/portfolio.html" />
-        <option value="$PROJECT_DIR$/_includes/services.html" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/_includes/services.html" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
       </list>
     </option>
@@ -261,6 +268,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="_layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nhunguyen.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nhunguyen.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_includes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -792,7 +813,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27343000" />
+    <option name="totallyTimeSpent" value="27694000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-14" y="-14" width="2574" height="1378" extended-state="0" />
@@ -878,7 +899,7 @@
         <state relative-caret-position="561">
           <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
           <folding>
-            <marker date="1484312778615" expanded="true" signature="2477:2496" ph="..." />
+            <marker date="1484314432920" expanded="true" signature="2433:2452" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1134,16 +1155,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/services.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1286">
-          <caret line="55" column="36" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
-          <folding>
-            <marker date="1484312778615" expanded="true" signature="2477:2496" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/aside.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -1248,19 +1259,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="45" column="44" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+          <folding>
+            <marker date="1484314432920" expanded="true" signature="2433:2452" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="297">
+          <caret line="9" column="99" selection-start-line="9" selection-start-column="99" selection-end-line="9" selection-end-column="99" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-            <element signature="n#style#1;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-            <element signature="n#style#2;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#p#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-            <element signature="n#style#1;n#i#0;n#p#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-            <element signature="n#style#2;n#i#0;n#p#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#0;n#i#0;n#p#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
             <element signature="n#style#1;n#a#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
           </folding>
