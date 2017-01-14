@@ -1,24 +1,64 @@
-<header>
-    <div class="header-content" theme>
-        <div class="header-content-inner" style="color:#000000" style="opacity: 0.5" style="font-weight: 600" style="text-align: center" style="top: 50%">
+<div id="videoDiv">
+    <div id="videoBlock">
+        <video preload="preload" id="video" autoplay="autoplay" loop="loop">
+            <source src="/img/hand.mp4" type="video/mp4">
+            <!--<source src="/video/t12.mp4" type="video/mp4"></source>-->
+        </video>
+        <div id="videoMessage">
 
-            <h1 style="opacity: 0.75"><span style="background-color: white" style="display: block">Nhu Nguyen</span></h1>
-        <!--<div class="header-content-inner" style="color:#fafafa">-->
-            <!--<h1><span>Nhu Nguyen</span></h1>-->
-            <!--<hr>-->
-            <!--<p>-->
-                <!--<i class="fa fa-3x wow bounceIn"  style="color:#232323" style="display: inline-block">-->
-                    <!--<i class="fa fa-2x wow bounceInLeft" data-wow-delay=".3s" style="color:#ffffff">"Welcome to my personal website!";-->
-                    <!--<h4 style="opacity: 0.5"><span>"Welcome to my personal website!";</span></h4>-->
-                <!--</i>-->
-            <!--</p>-->
-            <a class="page-scroll" href="#about">
-            <a href="#about" class="fa fa-4x fa-arrow-circle-o-down wow bounceIn" data-wow-delay=".5s"
-               aria-hidden="true" style="color: WHITE" style="opacity: 0.5" style="margin-top: 300px"></a>
-                <!--<i class="fa fa-2x fa-check-square-o wow bounceIn text-primary" data-wow-delay=".3s"> CSS/HTML</i>-->
-            <!--<a href="#about" class="btn btn-primary btn-xl page-scroll"></a>-->
-            <!--<i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i>-->
-            </a>
+
+            <div class="header-content" theme>
+                <div class="header-content-inner" style="color:#000000" style="opacity: 0.5" style="font-weight: 600" style="text-align: center" style="top: 50%">
+                    <h1 style="opacity: 0.75"><span style="background-color: white" style="display: block">Nhu Nguyen</span></h1>
+                    <a class="page-scroll" href="#about">
+                        <a href="#about" class="fa fa-4x fa-arrow-circle-o-down wow bounceIn" data-wow-delay=".5s"
+                           aria-hidden="true" style="color: WHITE" style="opacity: 0.5" style="margin-top: 300px"></a>
+                    </a>
+                </div>
+            </div>
+
+
         </div>
     </div>
-</header>
+</div>
+
+<style>
+    #videoDiv {width: 100%; height: 1900px; position: relative; background-position: center}
+    #videoBlock,#videoMessage {width: 100%; height: 360px; position: absolute; top: 0; left: 0;}
+    #videoMessage *{padding:0.4em; margin:0}
+    #videoMessage {text-shadow: 2px 2px 2px #000000; color:white;z-index:99 }
+    #videoMessage h1{font-size: 3em;color:#ffffff;text-align:center;}
+    #videoMessage h2{font-size: 2.5em;color:#ffffff;text-align:center;}
+    #videoMessage h3{font-size: 2.0em;color:#ffffff;text-align:center;}
+    .videoClick {text-align:center}
+    .videoClick a{color:white;background-color:rgba(241, 241, 241, 0.25);font-size: 1.7em;cursor:pointer;cursor:hand}
+</style>
+
+
+
+
+
+<!--<header>-->
+    <!--<div class="header-content" theme>-->
+        <!--<div class="header-content-inner" style="color:#000000" style="opacity: 0.5" style="font-weight: 600" style="text-align: center" style="top: 50%">-->
+
+            <!--<h1 style="opacity: 0.75"><span style="background-color: white" style="display: block">Nhu Nguyen</span></h1>-->
+        <!--&lt;!&ndash;<div class="header-content-inner" style="color:#fafafa">&ndash;&gt;-->
+            <!--&lt;!&ndash;<h1><span>Nhu Nguyen</span></h1>&ndash;&gt;-->
+            <!--&lt;!&ndash;<hr>&ndash;&gt;-->
+            <!--&lt;!&ndash;<p>&ndash;&gt;-->
+                <!--&lt;!&ndash;<i class="fa fa-3x wow bounceIn"  style="color:#232323" style="display: inline-block">&ndash;&gt;-->
+                    <!--&lt;!&ndash;<i class="fa fa-2x wow bounceInLeft" data-wow-delay=".3s" style="color:#ffffff">"Welcome to my personal website!";&ndash;&gt;-->
+                    <!--&lt;!&ndash;<h4 style="opacity: 0.5"><span>"Welcome to my personal website!";</span></h4>&ndash;&gt;-->
+                <!--&lt;!&ndash;</i>&ndash;&gt;-->
+            <!--&lt;!&ndash;</p>&ndash;&gt;-->
+            <!--<a class="page-scroll" href="#about">-->
+            <!--<a href="#about" class="fa fa-4x fa-arrow-circle-o-down wow bounceIn" data-wow-delay=".5s"-->
+               <!--aria-hidden="true" style="color: WHITE" style="opacity: 0.5" style="margin-top: 300px"></a>-->
+
+            <!--</a>-->
+        <!--</div>-->
+    <!--</div>-->
+<!--</header>-->
+
+
