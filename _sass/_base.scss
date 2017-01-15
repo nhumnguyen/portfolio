@@ -161,6 +161,18 @@ header {
     //background-color: black;
     background-image: url('../img/book.gif');
     //background: url(/img/hand.mp4);
+
+    //..............
+    /* Full height */
+    height: 100%;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    //.......................
+
+
     text-align: center;
     color: white;
     .header-content {
@@ -237,6 +249,10 @@ header {
         opacity: 0;
         display: block;
         background: rgba( 0,0,0, .9 );
+
+
+
+
         position: absolute;
         bottom: 0;
         text-align: center;
