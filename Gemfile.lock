@@ -166,6 +166,8 @@ GEM
     minitest (5.10.1)
     multipart-post (2.0.0)
     net-dns (0.8.0)
+    nokogiri (1.6.8.1)
+      mini_portile2 (~> 2.1.0)
     nokogiri (1.6.8.1-x86-mingw32)
       mini_portile2 (~> 2.1.0)
     octokit (4.6.2)
@@ -192,10 +194,11 @@ GEM
     unicode-display_width (1.1.3)
 
 PLATFORMS
+  ruby
   x86-mingw32
 
 DEPENDENCIES
   github-pages
 
 BUNDLED WITH
-   1.13.7
+   1.16.1
